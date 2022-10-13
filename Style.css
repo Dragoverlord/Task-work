@@ -1,0 +1,89 @@
+* {
+  font-family: "Montserrat";
+  margin: 0;
+  padding: 0;
+}
+#text_input {
+  width: 100%;
+}
+footer {
+  padding-top: 50px;
+}
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header {
+  width: 100%;
+}
+.navbar-inner2 {
+  margin-left: 50px;
+}
+section img {
+  width: 100%;
+  height: 80%;
+}
+#background {
+  width: 100%;
+  height: 80%;
+  background-color: rgb(224, 221, 221);
+}
+.about {
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 61px;
+  text-align: center;
+}
+.CREATIVE {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: center;
+}
+.Oneest {
+  width: 80%;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 20px;
+  text-align: center;
+}
+#Drag {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: "Raleway";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+#img1 {
+  height: 43px;
+  width: 51px;
+  border-radius: 0px;
+}
+#img2 {
+  height: 44px;
+  width: 50px;
+  border-radius: 0px;
+}
+#img3 {
+  height: 45px;
+  width: 41px;
+  border-radius: 0px;
+}
+#img4 {
+  height: 35px;
+  width: 56px;
+  border-radius: 0px;
+}
+#img5 {
+  height: 45px;
+  width: 56px;
+  border-radius: 0px;
+}
+#img6 {
+  height: 48px;
+  width: 51px;
+  border-radius: 0px;
+}
